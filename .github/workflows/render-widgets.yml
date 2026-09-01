@@ -22,7 +22,7 @@ jobs:
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: Muhammad-Irtiza10
-          output_path: trophy.svg
+          output_path: ./trophy.svg
           theme: darkhub
           token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit trophy.svg
