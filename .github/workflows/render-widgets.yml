@@ -14,16 +14,17 @@ permissions:
 jobs:
   trophy:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v4
       - name: Generate trophy.svg
         uses: ryo-ma/github-profile-trophy@master
         with:
           username: Muhammad-Irtiza10
-          output: trophy.svg
+          output_path: trophy.svg
           theme: darkhub
-          column: 7
-          no-frame: true
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Commit trophy.svg
         run: |
           git config user.name "github-actions[bot]"
