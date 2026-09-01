@@ -223,13 +223,13 @@ Worked on the ML and Risk Engine — risk assessment and intelligent decision su
 
 ### `$ ./summary-cards.sh --render`
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=Muhammad-Irtiza10&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muhammad-Irtiza10&theme=github_dark)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=Muhammad-Irtiza10&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=Muhammad-Irtiza10&theme=github_dark" width="32%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=Muhammad-Irtiza10&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muhammad-Irtiza10&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muhammad-Irtiza10&theme=github_dark" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muhammad-Irtiza10&theme=github_dark" width="32%" />
 
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=Muhammad-Irtiza10&theme=github_dark&utcOffset=4)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muhammad-Irtiza10&theme=github_dark&utcOffset=4)
 
 </div>
 
