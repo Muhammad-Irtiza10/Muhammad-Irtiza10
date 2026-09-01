@@ -190,10 +190,10 @@ Worked on the ML and Risk Engine — risk assessment and intelligent decision su
 
 ### `$ ./analytics.sh --render`
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Irtiza10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B91C3C&icon_color=B91C3C&text_color=c9d1d9&hide_rank=false" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api?username=Muhammad-Irtiza10&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B91C3C&icon_color=B91C3C&text_color=c9d1d9&hide_rank=false" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muhammad-Irtiza10&hide_border=true&background=0D1117&ring=B91C3C&fire=B91C3C&currStreakLabel=B91C3C&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Irtiza10&layout=compact&hide_border=true&bg_color=0D1117&title_color=B91C3C&text_color=c9d1d9" width="49%" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Muhammad-Irtiza10&layout=compact&hide_border=true&bg_color=0D1117&title_color=B91C3C&text_color=c9d1d9" width="49%" />
 
 </div>
 
@@ -203,7 +203,7 @@ Worked on the ML and Risk Engine — risk assessment and intelligent decision su
 
 ### `$ ./trophies.sh --render`
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Muhammad-Irtiza10&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8)
+![Trophies](https://raw.githubusercontent.com/Muhammad-Irtiza10/Muhammad-Irtiza10/main/trophy.svg)
 
 </div>
 
