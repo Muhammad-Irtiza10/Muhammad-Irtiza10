@@ -33,6 +33,31 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: update trophy.svg"
           git push
 
+  activity-graph:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate activity-graph.svg
+        uses: maurodesouza/github-readme-activity-graph-action@main
+        with:
+          username: Muhammad-Irtiza10
+          output_path: ./activity-graph.svg
+          options: |
+            bg_color=0D1117
+            color=B91C3C
+            line=B91C3C
+            point=c9d1d9
+            area=true
+            hide_border=true
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit activity-graph.svg
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add activity-graph.svg
+          git diff --staged --quiet || git commit -m "chore: update activity-graph.svg"
+          git push
+
   snake:
     runs-on: ubuntu-latest
     steps:

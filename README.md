@@ -213,7 +213,7 @@ Worked on the ML and Risk Engine — risk assessment and intelligent decision su
 
 ### `$ ./activity-graph.sh --render`
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Irtiza10&bg_color=0D1117&color=B91C3C&line=B91C3C&point=c9d1d9&area=true&hide_border=true)
+![Activity Graph](https://raw.githubusercontent.com/Muhammad-Irtiza10/Muhammad-Irtiza10/main/activity-graph.svg)
 
 </div>
 
